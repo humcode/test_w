@@ -1,0 +1,6 @@
+/home/jack/test_w/build/CMakeFiles/rebuild_cache.dir
+/home/jack/test_w/build/CMakeFiles/main.dir
+/home/jack/test_w/build/CMakeFiles/edit_cache.dir
+/home/jack/test_w/build/src/CMakeFiles/rebuild_cache.dir
+/home/jack/test_w/build/src/CMakeFiles/Test.dir
+/home/jack/test_w/build/src/CMakeFiles/edit_cache.dir
